@@ -228,12 +228,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ByteTrack](https://github.com/ifzhang/ByteTrack) for the tracking algorithm
 - OpenCV community for image processing tools
 
-## 📞 Contact
+<div align="center">
 
-**Andreas** - [your.email@example.com] - [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+## 📬 Need a Similar Project? Let's Collaborate!
+If you need a **custom IoT project** for **smart home, agriculture, industrial monitoring**, or other use cases,  
+I’m ready to assist you!  
 
-Project Link: [https://github.com/yourusername/vehicle-tracking-system](https://github.com/yourusername/vehicle-tracking-system)
+📧 **Reach out at:**  
+### andreas.sebayang9999@gmail.com  
 
----
+Let’s create something amazing together! 🚀
 
-⭐ **If you found this project helpful, please give it a star!** ⭐
+</div>
